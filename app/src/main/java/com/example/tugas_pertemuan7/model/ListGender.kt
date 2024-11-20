@@ -1,4 +1,4 @@
-package com.example.tugas_pertemuan7.ui.theme.model
+package com.example.tugas_pertemuan7.model
 
 import com.example.tugas_pertemuan7.R
 
